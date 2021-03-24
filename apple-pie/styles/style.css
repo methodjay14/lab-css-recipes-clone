@@ -1,0 +1,28 @@
+html{
+    background-color: wheat;
+    font-family: sans-serif;
+}
+body{
+    background-color: white;
+    width: 800px;
+    margin:auto;
+
+}
+#apple-pie{
+width: 90%;
+aspect-ratio: 16/9;
+padding: 20px;
+}
+h1{
+    position: absolute;
+    text-align: center;
+    color: white;
+    top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+
+}
+.info{
+    width: 50%;
+    align-content: center;
+}
